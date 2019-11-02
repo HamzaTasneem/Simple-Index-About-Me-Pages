@@ -217,7 +217,7 @@ html, body {
 
 .self-col {
     margin: 1% 0%;
-    flex: 90%;
+    /*flex: 90%;*/
     width: 90%;
     max-width: 90%;
     display: flex;

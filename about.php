@@ -79,12 +79,10 @@
                         </div>
                         <div class="follow-box">
                             <a href="https://www.facebook.com/hamza.tasneem.5" ><img src="public/img/icons/social/facebook.png" alt=""></a>
-                            <a href="#" ><img src="public/img/icons/social/g+.png" alt=""></a>
                             <a href="https://twitter.com/hamza014" ><img src="public/img/icons/social/twitter.png" alt=""></a>
                             <a href="https://www.linkedin.com/in/hamza-tasneem-b0423557/" ><img src="public/img/icons/social/linkedin.png" alt=""></a>
                             <a href="https://www.pinterest.com/hamzatas1992/" ><img src="public/img/icons/social/pinterest.png" alt=""></a>
                             <a href="https://github.com/HamzaTasneem" ><img src="public/img/icons/social/Github.png" alt=""></a>
-                            <a href="#" ><img src="public/img/icons/social/skype.png" alt=""></a>
                             <a href="https://www.instagram.com/hamza.tas1992/" ><img src="public/img/icons/social/Instagram.png" alt=""></a>
                         </div>
 
